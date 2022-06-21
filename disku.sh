@@ -5,3 +5,4 @@ if [[ $usage -ge 20 ]]
 then
 echo "Memory reached threshold value" | mail -s "memory issue" pooja.ab1994@gmail.com
 fi
+make some changes and save

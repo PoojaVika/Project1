@@ -1,5 +1,5 @@
 #!/bin/bash
-num1=22
-num2=22
+num1=23
+num2=23
 sum=`expr $num1 + $num2`
 echo "$sum"
